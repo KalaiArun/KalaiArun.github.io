@@ -1,11 +1,9 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "4W35SV8UJS.com.orbgen.vetricinemas",
-                "paths": [ "*"]
-            }
-        ]
-    }
+  "applinks": {
+    "apps": [],
+    "details": [{
+      "appID": "4W35SV8UJS.com.orbgen.vetricinemas",
+      "paths": ["*"]
+    }]
+  }
 }
