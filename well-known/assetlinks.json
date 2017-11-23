@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ticketnew.android.ui",
+    "sha256_cert_fingerprints":
+    ["DE:73:A0:69:84:63:CB:A8:86:A7:F8:A0:19:20:8A:BB:5A:6A:2E:1A"]
+  }
+}]
